@@ -31,10 +31,3 @@ az login
 go get github.com/Azure/azure-sdk-for-go/sdk/azidentity
 go get github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions
 ```
-
-## Run
-
-```sh
-go get github.com/Azure/azure-sdk-for-go/sdk/azidentity
-go get github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions
-```
